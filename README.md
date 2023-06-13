@@ -3,7 +3,7 @@ Bot para uma amiga, a onde estou tentando criar com oque ja aprende ate hoje. De
 
 PARA USAR O BOT:
 
-- Precisa instalar a lib discord.js v14.
+- Precisa instalar a lib discord.js v14. https://discordjs.guide
 - Instalar o pacote .env
 - Editar o example.env e deixar so .env
 - Coloca o token do seu bot no arquivo .env
